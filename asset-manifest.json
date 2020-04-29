@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/word-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/word-app/static/js/main.bcbf30c8.chunk.js",
+    "main.js.map": "/word-app/static/js/main.bcbf30c8.chunk.js.map",
+    "runtime-main.js": "/word-app/static/js/runtime-main.b8654bac.js",
+    "runtime-main.js.map": "/word-app/static/js/runtime-main.b8654bac.js.map",
+    "static/js/2.4f488296.chunk.js": "/word-app/static/js/2.4f488296.chunk.js",
+    "static/js/2.4f488296.chunk.js.map": "/word-app/static/js/2.4f488296.chunk.js.map",
+    "index.html": "/word-app/index.html",
+    "precache-manifest.d28b212f00d6153e2d95413a479d21f0.js": "/word-app/precache-manifest.d28b212f00d6153e2d95413a479d21f0.js",
+    "service-worker.js": "/word-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/word-app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4f488296.chunk.js.LICENSE.txt": "/word-app/static/js/2.4f488296.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8654bac.js",
+    "static/js/2.4f488296.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.bcbf30c8.chunk.js"
+  ]
+}
